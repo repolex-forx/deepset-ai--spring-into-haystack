@@ -1,0 +1,11 @@
+{
+  "org": "deepset-ai",
+  "repo": "spring-into-haystack",
+  "versions": [
+    {
+      "commit": "33743038970236c920d539483d31d1b9e53b0b40",
+      "tag": "",
+      "parsed_at": "2026-11-08T06:17:19.071978+00:00"
+    }
+  ]
+}
